@@ -1,0 +1,9 @@
+TODO List:
+
+1. Ensure Google coding standard are enforced.
+2. Ensure code passes cpplint.py tests.
+3. Establish coding/checking guidelines, for example, all unit tests must
+   pass a valgrind memory leak test, etc,.
+
+
+
